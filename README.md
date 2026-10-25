@@ -36,7 +36,7 @@ Power BI
 
 3. Key Findings
 
-![Key Findings](Screenshot%202026-10-24%20224752.png)
+![Key Findings](Screenshot%202026-10-23%20131647.png)
 
 ## Author
 Shamna Sherin | Data Analyst
